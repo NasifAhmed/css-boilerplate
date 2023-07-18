@@ -1,0 +1,55 @@
+/* 
+
+            Global Setup
+
+*/
+
+:root {
+    --primary-color: black;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+}
+
+main,
+header {
+    border: 2px solid red;
+}
+
+footer {
+    border: 2px solid red;
+}
+
+/* 
+
+            Header
+
+*/
+
+/* 
+
+            Main
+
+*/
+
+/* 
+
+            Footer
+
+*/
